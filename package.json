@@ -1,0 +1,16 @@
+{
+  "name": "rachitha_c_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass css/style.scss css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "sass": "^1.85.0"
+  }
+}
